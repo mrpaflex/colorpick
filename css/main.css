@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+section  { 
+    text-align: center;
+
+}
+
+main{
+    justify-content: center;
+    display: flex;
+    
+    /* align-items: center; */
+    
+}
+main section{
+    padding: 7px;
+    border:  2px solid rgb(255, 255, 255);
+    
+}
+.red{
+    color: red;
+    background-color: red;
+}
+
+.red button h5{
+    color: red;
+}
+
+.yellow{
+    color: rgb(218, 218, 17);
+    background-color: rgb(224, 224, 20);
+}
+
+.yellow button h5{
+    color: rgb(218, 218, 24);
+}
+
+.pink{
+    color: pink;
+    background-color: pink;
+}
+
+.pink button h5{
+    color: pink;
+}
